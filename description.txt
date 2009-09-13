@@ -1,0 +1,1 @@
+Send SMS (txt) messages from your website. A simple form for sending messages to any NZ mobile, and many international numbers. Messages cost 12c each andare added onto your web hosting account.
